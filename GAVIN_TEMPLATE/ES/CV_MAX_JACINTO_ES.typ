@@ -3,7 +3,7 @@
 #show: resume.with(
   name: "MAX JACINTO",
   contacts: (
-    "": "max.jacmes7@gmail.com",
+    //"": "max.jacmes7@gmail.com",
     "": "max.jacinto@pucp.edu.pe",
     "": link("https://www.linkedin.com/in/max-jacinto-mestanza-a39969303/")[Max Jacinto Mestanza],
     "": link("https://github.com/Maxito7")[lucky.dev],
@@ -19,7 +19,7 @@
 )
 #v(-13pt)
 Experiencia en cursos relacionados a ciberseguridad:
-  - Sistemas Operativos, Redes de Computadoras, Seguridad de la Información, Hacking Ético & Criptografía, Informática Forense, Gobierno de TI, Auditoría de Sistemas y TI, y Gestión de Riesgos. Experiencia con NIST CSF 2.0 e ISO 27001/27002/37000.
+  - Sistemas Operativos, Redes de Computadoras, Seguridad de la Información, Hacking Ético & Criptografía, Informática Forense, Gobierno de TI, Auditoría de Sistemas y TI, y Gestión de Riesgos. Experiencia con NIST CSF 2.0, COBIT 5, Oceg Red Book e ISO 27001/27002/31000/31000/37001/37301.
 = Experiencia
 #include "experience.typ"
 #let languages = ("Rust", "Go", "C", "C++", "Bash", "Python")

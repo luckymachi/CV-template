@@ -5,7 +5,7 @@
   "Ingeniero de Soporte I",
   "Diciembre 2024-Presente",
 )
-#job("Analista de Seeguridad de Sistemas & TI y Detección y Prevención de Incidencias", "")[
+#job("Analista de Seguridad de Sistemas & TI y Detección y Prevención de Incidencias", "")[
     Detección y resolución de incidentes relacionados a TI en equipos embebidos utilizados en vehículos de minería así como en dispositivos IoT utilizados en almacenes farmaceúticos. Mantenimiento diario de plataformas web y servidores proporcionados a clientes. Configuración remota de equipamiento embebido utilizado en vehículos de minería a través de servidores Ubuntu, la cual incluye la instalación y configuración de middlewares.
 ]
 /*
